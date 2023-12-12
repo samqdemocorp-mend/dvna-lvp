@@ -9,5 +9,12 @@
   },
   "leastVulnerablePackageSettings": {
     "enabled": true
-  }
+  },
+  "imageSettings": {
+    "imageTracing": {
+        "enableImageTracingPR": false,
+        "addDockerfilePath": false,
+        "addRepositoryCoordinates": false
+      }
+    }
 }
